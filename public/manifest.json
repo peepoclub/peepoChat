@@ -4,14 +4,9 @@
   "description": "PWA-based Twitch chat client",
   "icons": [
     {
-      "src": "/assets/logo192.png",
+      "src": "/assets/logo.png",
       "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "/assets/logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "135x135"
     }
   ],
   "start_url": ".",
