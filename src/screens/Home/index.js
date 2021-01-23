@@ -6,7 +6,7 @@ function Home() {
       <header className="text-gray-600 body-font">
         <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
           <div className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
-            <img className="h-10" alt="logo" src="/assets/logo.svg" />
+            <img className="h-10" alt="peepoClub logo" src="/assets/logo.svg" />
             <span className="ml-3 text-xl">peepoChat</span>
           </div>
           <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
@@ -27,7 +27,7 @@ function Home() {
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
             <img
               className="object-cover object-center rounded"
-              alt="hero"
+              alt="Cool."
               src="/assets/screenshot.png"
             />
           </div>
