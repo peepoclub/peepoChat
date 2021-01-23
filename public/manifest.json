@@ -1,12 +1,12 @@
 {
   "short_name": "peepoChat",
   "name": "peepoChat",
-  "description": "PWA-based Twitch chat client",
+  "description": "Crossplatform Twitch Chat App",
   "icons": [
     {
       "src": "/assets/logo.png",
       "type": "image/png",
-      "sizes": "135x135"
+      "sizes": "526x526"
     }
   ],
   "start_url": ".",
