@@ -1,6 +1,6 @@
 {
   "name": "peepochat",
-  "version": "0.0.1-minor",
+  "version": "0.0.1-blelele",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.0.0",
