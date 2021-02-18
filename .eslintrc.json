@@ -1,0 +1,45 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": ["eslint:recommended", "plugin:react/recommended"],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": ["react"],
+  "rules": {
+    "indent": ["warn", 2],
+    "linebreak-style": ["error", "unix"],
+    "quotes": ["error", "single"],
+    "semi": ["error", "always"],
+    "no-unused-vars": "warn",
+    "require-jsdoc": "off",
+    "new-cap": "warn",
+    "no-undef": "off",
+    "max-len": [
+      "warn",
+      250,
+      {
+        "ignoreStrings": true,
+        "ignoreTemplateLiterals": true
+      }
+    ],
+    "eqeqeq": "error",
+    "no-throw-literal": "error",
+    "require-await": "warn",
+    "no-multiple-empty-lines": [
+      "error",
+      {
+        "maxEOF": 1,
+        "max": 2
+      }
+    ],
+    "no-invalid-this": "off"
+  }
+}
