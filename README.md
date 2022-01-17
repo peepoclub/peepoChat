@@ -1,7 +1,7 @@
 # ⚠️ Warning
 This repository is currently outdated.
 
-peepoChat is in active development in a closed source, but when it would be in RC stage, we will open the source
+peepoChat is in active development in a closed source, but when it would be in Release Candidate stage, we will open the source
 
 #
 
